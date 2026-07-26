@@ -1,5 +1,7 @@
 Blogilista is a full-stack web application built with React (Vite) frontend and Node/Express backend. It allows users to view, create, like and delete blogs and requires authentication.
 
+https://blogilist.onrender.com/
+
 You can use test credentials to log in:
 Username: klukovki
 Password: salasana
